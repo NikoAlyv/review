@@ -30,4 +30,3 @@ console.log(personalProfile);
 // console.log(personalProfile.favoriteLanguage);
 // console.log(personalProfile["contactInfo"].email);
 // console.log(personalProfile["contactInfo"].phoneNumber);
-// console.log(personalProfile);
